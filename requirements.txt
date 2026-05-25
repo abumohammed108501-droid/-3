@@ -1,0 +1,7 @@
+streamlit
+pandas
+plotly
+sqlalchemy
+streamlit-option-menu
+opencv-python
+pyzbar
